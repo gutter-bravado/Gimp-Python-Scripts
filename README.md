@@ -34,7 +34,7 @@ This repository includes the following scripts:
 
 ## Contributing
 
-Contributions are welcome! Please read the CONTRIBUTING.md for details on how to contribute to this project.
+Contributions are welcome!
 
 ## License
 
